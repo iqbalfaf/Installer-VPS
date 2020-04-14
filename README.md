@@ -35,10 +35,10 @@ menu (Menu di dalam script)
  
 Fitur lain : 
 ------------ 
-Webmin         : http://IPVPS:10000/ 
-Timezone       : Asia/Jakarta (GMT +7) 
-IPv6           : [off] 
-Auto Lock kuy Expire tiap jam 00:00 
-Auto Reboot tiap jam 00:00 dan jam 12:00 
+Webmin         : http://IPVPS:10000/ <br>
+Timezone       : Asia/Jakarta (GMT +7) <br>
+IPv6           : [off] <br>
+Auto Lock kuy Expire tiap jam 00:00 <br>
+Auto Reboot tiap jam 00:00 dan jam 12:00 <br>
 
 # Thanks To All Member Komunitas Phreaker Indonesia
