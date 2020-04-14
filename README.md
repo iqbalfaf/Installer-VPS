@@ -40,5 +40,6 @@ Timezone       : Asia/Jakarta (GMT +7) <br>
 IPv6           : [off] <br>
 Auto Lock kuy Expire tiap jam 00:00 <br>
 Auto Reboot tiap jam 00:00 dan jam 12:00 <br>
+Dropbear versi 2019 <br>
 
 # Thanks To All Member Komunitas Phreaker Indonesia
