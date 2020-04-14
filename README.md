@@ -10,11 +10,11 @@ wget https://raw.githubusercontent.com/iqbalfaf/Installer-VPS/master/setup.sh &&
 # Fitur Script Auto Install
 Service : 
 --------- 
-OpenSSH  : 22 
-Dropbear : 443, 143,109,110 
-SSL      : 443 
-Squid3   : 80, 8000, 3128 (limit to IP IPVPS) 
-badvpn   : badvpn-udpgw port 7300 
+OpenSSH (22) <br>
+Dropbear (443, 143,109,110) <br>
+SSL(443) <br>
+Squid3(80, 8000, 3128 "limit to IP IPVPS") <br>
+badvpn(badvpn-udpgw port 7300) <br>
  
 Tools : 
 ------- 
