@@ -40,3 +40,5 @@ Timezone       : Asia/Jakarta (GMT +7)
 IPv6           : [off] 
 Auto Lock kuy Expire tiap jam 00:00 
 Auto Reboot tiap jam 00:00 dan jam 12:00 
+
+# Thanks To All Member Komunitas Phreaker Indonesia
